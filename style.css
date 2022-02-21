@@ -9,7 +9,7 @@ body{
     grid: fr min-content / fr;
     row-gap: 7.5rem;
     place-items: center;
-    background-color:  hsl(220, 15%, 55%);
+    background-color:   hsl(212, 45%, 89%);
     padding: 8.5rem 2.8rem;
     font-family: "Outfit",sans-serif;
 }
